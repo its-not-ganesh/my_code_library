@@ -1,2 +1,3 @@
-# competitive-coding-program
-CODE LIBRARY
+
+CODE LIBRARY Documentation pending about codes
+
